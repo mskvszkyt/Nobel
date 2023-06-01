@@ -1,0 +1,8 @@
+C:\Users\tanulo\source\repos\NobelDogalinq\NobelDogalinq\bin\Debug\nobel.csv
+C:\Users\tanulo\source\repos\NobelDogalinq\NobelDogalinq\bin\Debug\NobelDogalinq.exe.config
+C:\Users\tanulo\source\repos\NobelDogalinq\NobelDogalinq\bin\Debug\NobelDogalinq.exe
+C:\Users\tanulo\source\repos\NobelDogalinq\NobelDogalinq\bin\Debug\NobelDogalinq.pdb
+C:\Users\tanulo\source\repos\NobelDogalinq\NobelDogalinq\obj\Debug\NobelDogalinq.csproj.AssemblyReference.cache
+C:\Users\tanulo\source\repos\NobelDogalinq\NobelDogalinq\obj\Debug\NobelDogalinq.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\source\repos\NobelDogalinq\NobelDogalinq\obj\Debug\NobelDogalinq.exe
+C:\Users\tanulo\source\repos\NobelDogalinq\NobelDogalinq\obj\Debug\NobelDogalinq.pdb
